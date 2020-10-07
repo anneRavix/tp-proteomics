@@ -59,22 +59,22 @@ L'objectif de cette approche est d'identifier des différences entre des échant
 ##### L’identification des protéines/ peptides se réalise grâce à une base de données de protéines. Quelle comparaison va être effectuée?
 
 ```
-
+Comparer les data expérimentales (peptides) au protéome d'intérêt (données théoriques)
 ```
 
 ##### Existe t’il d’autres types de bases de données pour réaliser l’identification des peptides trypsiques dans un spectre?
 
 ```
-
+Si protéome inconnu (non référencé dans uniprot), on peut faire la comparaison par homologie avec des librairies spectrales
 ```
 
 ##### Est-ce qu’il est possible d’identifier des peptides sans base de données?
 ```
-
+Oui 
 ```
 ##### Combien de protéines sont identifiées dans le protéome bactérien?
 ```
-
+4391 protéines
 ```
 ##### Comment la liste des séquences des protéines est-elle établie ? Est-elle complète? 
 ```
